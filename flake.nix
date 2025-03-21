@@ -95,7 +95,7 @@
       # wasted maintenance effort.
       #
       # [1]: https://github.com/danth/stylix/issues/534
-      url = "github:tinted-theming/tinted-kitty/eb39e141db14baef052893285df9f266df041ff8";
+      url = "github:tinted-theming/tinted-kitty";
     };
 
     tinted-schemes = {
